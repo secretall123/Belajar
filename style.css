@@ -24,6 +24,14 @@ img{
     border-radius: 10px;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+
 ul, ol{
     background: #e0f7fa;
     padding: 15px;
